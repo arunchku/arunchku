@@ -1,103 +1,112 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar Choudhary</h1>
-<h3 align="center">Associate Tech Lead | Full Stack Developer (MERN / React / Node)</h3>
+<!-- Banner -->
+<h1 align="center">Hi, I'm <span style="color:#6C63FF;">Arun Kumar Choudhary</span> 👋</h1>
+<h3 align="center">Associate Tech Lead | Full Stack Developer (React • Node • AWS)</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arunchoudhary&theme=onedark&no-frame=true&column=7" />
+</p>
 
 ---
 
-### 🚀 About Me  
-I am an **Associate Tech Lead** with **5+ years of experience** building scalable web and mobile applications using **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **Angular**, **MongoDB**, **SQL**, **AWS**, and modern UI frameworks like **Material UI** and **Bootstrap**.
+## 🧑‍🚀 About Me  
+I'm a **Full Stack Developer** with **5+ years of hands-on experience** building scalable, high-performance, user-focused web and mobile applications.
 
-I enjoy solving complex problems, building high-performance applications, and leading teams with clean code and best practices.
+💡 Passionate about problem solving, clean architecture, and leading teams to deliver enterprise-level software.  
+⚡ I work across the **entire stack**: Frontend • Backend • DevOps • Cloud.  
+🔥 Love React.js, Node.js, TypeScript, modern UI engineering & system design.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🔥 Tech Arsenal (What I Use Daily)
 
 ### **Frontend**
-- React.js, Next.js  
-- Angular 2+  
-- JavaScript, TypeScript  
-- Formik, React Hook Form  
-- Material UI, Bootstrap, Tailwind CSS  
-- Responsive UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,redux,bootstrap,materialui,tailwind" />
+</p>
 
 ### **Backend**
-- Node.js, Express.js  
-- RESTful APIs  
-- Meteor.js  
-- Microservices Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman" />
+</p>
 
 ### **Databases**
-- MongoDB  
-- PostgreSQL  
-- SQL  
-- Oracle
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
+</p>
 
 ### **Cloud & DevOps**
-- AWS  
-- Docker  
-- Git / GitHub  
-- SDLC, Code Reviews, Agile, Sprint Planning
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🏆 Experience Highlights  
 
-### **👨‍💻 Associate Tech Lead — Habilelabs Pvt. Ltd (Nov 2020 – Present)**  
+### **🔸 Associate Tech Lead — Habilelabs (2020–Present)**  
+**Tech:** AWS, React.js, Node.js, MongoDB, Material UI  
+- Lead full-stack engineering for enterprise applications.  
+- Reduced bugs by **20%** through improved code quality & reviews.  
+- Built scalable modules, APIs, responsive UI, and integrated cloud services.  
 
-#### **USHJA (US Hunter Jumper Association)**  
-**Role:** Full Stack Developer | *Dec 2023 – Present*  
-- Full ownership of both frontend and backend development.  
-- Implemented new modules, improved existing architecture, and reduced bugs by **20%** through code reviews.  
-- Tech: **AWS, React.js, Node.js, MongoDB, MUI**
+### **🔸 Major Projects**
 
-#### **Paycore**  
-**Role:** Full Stack Developer | *Mar 2023 – Dec 2023*  
-- Created full application flows and UI screens.  
-- Built responsive UI and integration processes.  
-- Tech: **AWS, React.js, Node.js, MongoDB, Bootstrap**
+#### **🚀 USHJA (US Hunter Jumper Association)**  
+- Full ownership of frontend + backend systems.  
+- Delivered new modules from scratch and modernized legacy flows.  
 
-#### **Memorizz**  
-**Role:** Full Stack Developer | *Apr 2022 – Mar 2023*  
-- Led both frontend and backend teams for web + mobile apps.  
-- Designed APIs, reviewed code, managed sprints, and communicated with clients.  
-- Tech: **Meteor.js, React.js, Node.js, MongoDB, AWS**
+#### **💳 Paycore**  
+- Built end-to-end modules, responsive UI, and integration workflows.  
 
-#### **Revbits Secure File Sharing (SFS)**  
-**Role:** React Developer | *Nov 2020 – Apr 2022*  
-- Built features for encrypting, uploading, downloading & sharing files.  
-- Managed frontend team and directly coordinated with clients.  
-- Tech: **React.js, Node.js, PostgreSQL, Docker**
+#### **📱 Memorizz (Web + Android + iOS)**  
+- Led both teams, structured sprints, reviewed code, built APIs.  
+- Designed flows, coordinated with clients, shipped features faster.  
+
+#### **🛡 Revbits Secure File Sharing (SFS)**  
+- Developed secure file encryption + sharing modules.  
+- Managed frontend team and code reviews.  
 
 ---
 
-### **🧑‍💻 Associate Software Developer — Tata Consultancy Services (TCS)**  
-**Aug 2019 – Nov 2020**  
-**Project:** Material Delivery & Requirement System (Eli Lilly & Co)  
-- Worked on backend modules including login, session handling, validations & APIs.  
-- Tech: **Node.js, PostgreSQL, Heroku**
+## 🧑‍💼 Previous Roles
+
+### **Associate Software Developer — Tata Consultancy Services (TCS)**  
+- Built backend flows for Eli Lilly’s material/requirement tracking system.  
+- Tech: Node.js, PostgreSQL, Heroku  
+
+### **Tech Intern — Synoriq Pvt. Ltd**  
+- Built government scheme modules (PMJJBY, APY) for AU Small Finance Bank.  
+- Tech: Angular.js, Hibernate, Oracle  
 
 ---
 
-### **🛠️ Tech Intern — Synoriq Pvt. Ltd (Jan 2019 – Jul 2019)**  
-**Project:** Jan Suraksha Portal — AU Small Finance Bank  
-- Developed government scheme workflows (PMJJBY, APY).  
-- Built features for bank operations like approval systems.  
-- Tech: **Angular.js, Hibernate, Oracle, Apache**
+## 📊 GitHub Stats (Because Numbers Matter 🚀)
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arunchoudhary&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arunchoudhary&theme=tokyonight" />
+</p>
 
-## 🎓 Education  
-**Bachelor of Technology (B.Tech)**  
-JECRC University, Jaipur — *2019*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchoudhary&theme=react-dark" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: **arunaj9891@gmail.com**  
-- 📱 Phone: **+91 7726970911**  
-- 💼 LinkedIn: *(share your link — I can add it)*  
+<p>
+  <a href="mailto:arunaj9891@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Feel free to explore my repositories and connect with me.
+## ⚡ Fun Facts  
+- I love solving problems that others avoid.  
+- Pixel-perfect UI + Smart backend logic = My happy place 😄  
+- Code reviewer by habit, not designation.  
+
+---
+
+⭐ **If you like my work, feel free to star my repositories or connect with me!**
