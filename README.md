@@ -2,10 +2,6 @@
 <h1 align="center">Hi, I'm <span style="color:#6C63FF;">Arun Kumar Choudhary</span> 👋</h1>
 <h3 align="center">Associate Tech Lead | Full Stack Developer (React • Node • AWS)</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arunchoudhary&theme=onedark&no-frame=true&column=7" />
-</p>
-
 ---
 
 ## 🧑‍🚀 About Me  
@@ -77,19 +73,6 @@ I'm a **Full Stack Developer** with **5+ years of hands-on experience** building
 ### **Tech Intern — Synoriq Pvt. Ltd**  
 - Built government scheme modules (PMJJBY, APY) for AU Small Finance Bank.  
 - Tech: Angular.js, Hibernate, Oracle  
-
----
-
-## 📊 GitHub Stats (Because Numbers Matter 🚀)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arunchoudhary&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arunchoudhary&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchoudhary&theme=react-dark" />
-</p>
 
 ---
 
