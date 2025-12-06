@@ -1,119 +1,112 @@
-<!-- ============================================================ -->
-<!--                    ARUN KUMAR CHOUDHARY                      -->
-<!--        Associate Tech Lead • Full Stack Developer            -->
-<!-- ============================================================ -->
+<!-- Banner -->
+<h1 align="center">Hi, I'm <span style="color:#6C63FF;">Arun Kumar Choudhary</span> 👋</h1>
+<h3 align="center">Associate Tech Lead | Full Stack Developer (React • Node • AWS)</h3>
 
-<div align="center">
-  
-# 👋 Hey, I'm <span style="color:#8A2BE2;">Arun Kumar Choudhary</span>  
-### Associate Tech Lead • Full Stack Engineer (React • Node • AWS)
-
-Crafting modern, scalable, high-performance applications with clean architecture, strong engineering principles, and a passion for great UI/UX.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunaj9891@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arunchoudhary&theme=onedark&no-frame=true&column=7" />
+</p>
 
 ---
 
-## 💠 Who Am I?
+## 🧑‍🚀 About Me  
+I'm a **Full Stack Developer** with **5+ years of hands-on experience** building scalable, high-performance, user-focused web and mobile applications.
 
-A **Full Stack Developer with 5+ years** of experience building enterprise-grade applications across:  
-✔ Web Platforms  
-✔ Mobile Apps  
-✔ Cloud Infrastructure  
-✔ Secure, High-Performance Systems  
-
-I build **production-quality** software with:  
-- Clean & scalable architecture  
-- Modular frontend systems  
-- Robust backend APIs  
-- Cloud-native deployments  
-- Well-reviewed, maintainable code  
-
-I believe in **engineering excellence**, team ownership, and solving real problems—not just writing code.
+💡 Passionate about problem solving, clean architecture, and leading teams to deliver enterprise-level software.  
+⚡ I work across the **entire stack**: Frontend • Backend • DevOps • Cloud.  
+🔥 Love React.js, Node.js, TypeScript, modern UI engineering & system design.
 
 ---
 
+## 🔥 Tech Arsenal (What I Use Daily)
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,angular,js,ts,redux,bootstrap,materialui,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
+</p>
+
+### **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
 ---
 
-## 🏆 Professional Experience
+## 🏆 Experience Highlights  
 
-### 🔸 Associate Tech Lead — Habilelabs (2020–Present)
-**Tech:** React.js, Node.js, AWS, MongoDB, MUI  
+### **🔸 Associate Tech Lead — Habilelabs (2020–Present)**  
+**Tech:** AWS, React.js, Node.js, MongoDB, Material UI  
+- Lead full-stack engineering for enterprise applications.  
+- Reduced bugs by **20%** through improved code quality & reviews.  
+- Built scalable modules, APIs, responsive UI, and integrated cloud services.  
 
-#### 🚀 USHJA — Full Stack Developer
-- Built high-performance modules across frontend & backend  
-- Improved code quality → **20% fewer bugs**  
-- Implemented scalable flows and optimized UI components  
+### **🔸 Major Projects**
 
-#### 💳 Paycore
-- Delivered full frontend & backend flows  
-- Architected responsive UI and integration processes  
+#### **🚀 USHJA (US Hunter Jumper Association)**  
+- Full ownership of frontend + backend systems.  
+- Delivered new modules from scratch and modernized legacy flows.  
 
-#### 📱 Memorizz (Web + iOS + Android)
-- Led engineering teams (frontend + backend)  
-- Built APIs, reviewed code, handled sprints, client discussions  
+#### **💳 Paycore**  
+- Built end-to-end modules, responsive UI, and integration workflows.  
 
-#### 🛡 Secure File Sharing (SFS)
-- Core developer for file encryption, upload, download & sharing  
-- Managed frontend team & modernized UI flows  
+#### **📱 Memorizz (Web + Android + iOS)**  
+- Led both teams, structured sprints, reviewed code, built APIs.  
+- Designed flows, coordinated with clients, shipped features faster.  
+
+#### **🛡 Revbits Secure File Sharing (SFS)**  
+- Developed secure file encryption + sharing modules.  
+- Managed frontend team and code reviews.  
 
 ---
 
-## 💼 Past Roles
+## 🧑‍💼 Previous Roles
 
-### 🔹 Associate Software Developer — TCS
-Project: Eli Lilly (Material Delivery System)  
-- Built login, session, validation & API flows  
+### **Associate Software Developer — Tata Consultancy Services (TCS)**  
+- Built backend flows for Eli Lilly’s material/requirement tracking system.  
 - Tech: Node.js, PostgreSQL, Heroku  
 
-### 🔹 Tech Intern — Synoriq Pvt. Ltd
-Project: Jan Suraksha Portal (AU Bank)  
-- Built workflows for PMJJBY & APY  
-- Tech: Angular.js, Oracle, Hibernate  
+### **Tech Intern — Synoriq Pvt. Ltd**  
+- Built government scheme modules (PMJJBY, APY) for AU Small Finance Bank.  
+- Tech: Angular.js, Hibernate, Oracle  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats (Because Numbers Matter 🚀)
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arunchoudhary&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arunchoudhary&theme=tokyonight" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arunchoudhary&show_icons=true&theme=radical" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=arunchoudhary&theme=radical" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchoudhary&theme=react-dark" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchoudhary&theme=react-dark" />
+</p>
 
 ---
 
-## 📬 Reach Me At
-- 📧 **Email:** arunaj9891@gmail.com  
-- 📍 **Location:** Jaipur, Rajasthan  
-- 💼 **LinkedIn:** _(share your link to add it)_  
+## 📫 Connect With Me  
+<p>
+  <a href="mailto:arunaj9891@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-## 🧩 Fun Engineering Facts
-- I love pixel-perfect UI + clean backend logic  
-- I mentor teams on architecture & code quality  
-- I enjoy debugging tough issues more than writing boilerplate  
-- I believe in “build once, scale forever”  
+## ⚡ Fun Facts  
+- I love solving problems that others avoid.  
+- Pixel-perfect UI + Smart backend logic = My happy place 😄  
+- Code reviewer by habit, not designation.  
 
 ---
 
-<div align="center">
-
-### ✨ _Thanks for visiting my profile!_  
-If you like my repositories, feel free to ⭐ them.
-
-</div>
-
+⭐ **If you like my work, feel free to star my repositories or connect with me!**
