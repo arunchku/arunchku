@@ -39,6 +39,81 @@ I believe in **engineering excellence**, team ownership, and solving real proble
 
 ---
 
-## 🔥 My Tech Stack
 
-### 🖥 Frontend Engineering
+---
+
+## 🏆 Professional Experience
+
+### 🔸 Associate Tech Lead — Habilelabs (2020–Present)
+**Tech:** React.js, Node.js, AWS, MongoDB, MUI  
+
+#### 🚀 USHJA — Full Stack Developer
+- Built high-performance modules across frontend & backend  
+- Improved code quality → **20% fewer bugs**  
+- Implemented scalable flows and optimized UI components  
+
+#### 💳 Paycore
+- Delivered full frontend & backend flows  
+- Architected responsive UI and integration processes  
+
+#### 📱 Memorizz (Web + iOS + Android)
+- Led engineering teams (frontend + backend)  
+- Built APIs, reviewed code, handled sprints, client discussions  
+
+#### 🛡 Secure File Sharing (SFS)
+- Core developer for file encryption, upload, download & sharing  
+- Managed frontend team & modernized UI flows  
+
+---
+
+## 💼 Past Roles
+
+### 🔹 Associate Software Developer — TCS
+Project: Eli Lilly (Material Delivery System)  
+- Built login, session, validation & API flows  
+- Tech: Node.js, PostgreSQL, Heroku  
+
+### 🔹 Tech Intern — Synoriq Pvt. Ltd
+Project: Jan Suraksha Portal (AU Bank)  
+- Built workflows for PMJJBY & APY  
+- Tech: Angular.js, Oracle, Hibernate  
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=arunchoudhary&show_icons=true&theme=radical" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=arunchoudhary&theme=radical" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchoudhary&theme=react-dark" />
+
+</div>
+
+---
+
+## 📬 Reach Me At
+- 📧 **Email:** arunaj9891@gmail.com  
+- 📍 **Location:** Jaipur, Rajasthan  
+- 💼 **LinkedIn:** _(share your link to add it)_  
+
+---
+
+## 🧩 Fun Engineering Facts
+- I love pixel-perfect UI + clean backend logic  
+- I mentor teams on architecture & code quality  
+- I enjoy debugging tough issues more than writing boilerplate  
+- I believe in “build once, scale forever”  
+
+---
+
+<div align="center">
+
+### ✨ _Thanks for visiting my profile!_  
+If you like my repositories, feel free to ⭐ them.
+
+</div>
+
